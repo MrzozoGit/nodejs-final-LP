@@ -21,13 +21,11 @@ J'ai utilisé Ethereal comme service d'email avec la configuration suivante :
 Lien vers Ethereal : https://ethereal.email/.
 
 Si un utilisateur est créé avec un email et un mot de passe ne provenant pas d'Ethereal, une erreur de login sera déclenchée.
-#
 
 ## Lancer l'application
 ```
 npm i
 npm start
 ```
-
 #
 En vous souhaitant une bonne journée 👍
